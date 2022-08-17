@@ -1,7 +1,17 @@
-import '../styles/globals.css'
+import "../styles/custom-styles.css";
+import "../styles/dracula.css";
+import "../styles/prose-styles.css";
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+import * as React from "react";
+import { Nav } from "../components/Nav";
+// import { Providers } from "../components/Providers";
+
+export default function App({ Component, pageProps }) {
+  return (
+    <>
+      <Nav />
+      {/* <Providers /> */}
+      <Component {...pageProps} />
+    </>
+  );
 }
-
-export default MyApp
