@@ -72,14 +72,14 @@ export function Home() {
               <br />
               <div className="prose">
                 <p>
-                  Hey, I'm Rahul. I'm a student at University of California at
-                  Santa Cruz and I'm studying Computer science. I am currently
-                  interning as a Solution Engineer at Salesforce. I'm also
-                  looking for a Software Engineering Internship/New Grad role
-                  for Summer 2022.I mainly code in Python, C, Javascript, and
-                  Java. I'm interested in web development and am proficient in
-                  React.js and am currently learning other javascript frameworks
-                  such as Vue and Svelte.
+                  Hey, I&apos;m Rahul. I&apos;m a student at University of
+                  California at Santa Cruz and I&apos;m studying Computer
+                  science. I am currently interning as a Solution Engineer at
+                  Salesforce. I&apos;m also looking for a Software Engineering
+                  Internship/New Grad role for Summer 2022.I mainly code in
+                  Python, C, Javascript, and Java. I&apos;m interested in web
+                  development and am proficient in React.js and am currently
+                  learning other javascript frameworks such as Vue and Svelte.
                 </p>
                 <br />
               </div>
